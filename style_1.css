@@ -1,0 +1,124 @@
+body{
+  background-color:#E0E6E9;
+}
+
+.b1{
+  border: 3px solid #483D8B;
+  float: left;
+  width: 45%;
+  margin-botton: 30px;
+  border-radius: 30px;
+  background: #a8a7a6;
+}
+.b2{
+  border: 3px solid #483D8B;
+  float: right;
+  width: 45%;
+  margin-botton: 30px;
+  border-radius: 30px;
+  background: #a8a7a6;
+}
+.b3{
+  border: 3px solid #483D8B;
+  float: right;
+  width: 45%;
+  margin-top: 30px;
+  border-radius: 30px;
+  background: #a8a7a6;
+}
+.b4{
+  border: 3px solid #483D8B;
+  float: left;
+  width: 45%;
+  margin-top: 30px;
+  border-radius: 30px;
+  background: #a8a7a6;
+}
+.b5{
+text-align: center;
+}
+.b6{
+  margin-top: 30px;
+  border-radius: 30px;
+  margin-left: 560px;
+  margin-right: 560px;
+  margin-bottom: 30px;
+  font-size: 17px;
+  color: #483D8B;
+  font-family: Courier New;
+}
+.b7{
+  color: #483D8B;
+  border: 5px solid #483D8B;
+  border-radius: 50px;
+  margin-left: 230px;
+  margin-right: 230px;
+  margin-bottom: 50px;
+  font-weight: 800;
+  box-shadow: 10px 10px 15px #887693;
+  font-family: Courier New;
+}
+.b8{
+  color: #483D8B;
+  border: 5px solid #483D8B;
+  border-radius: 50px;
+  margin-left: 390px;
+  margin-right: 390px;
+  font-weight: 800;
+  box-shadow: 10px 10px 15px #887693;
+  font-family: Courier New;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.b9{
+  text-align: center;
+}
+.b10{
+  color: #7F4870;
+  font-size: 25px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.b11{
+  color: #483D8B;
+  border: 5px solid #483D8B;
+  border-radius: 50px;
+  margin-left: 460px;
+  margin-right: 460px;
+  font-weight: 800;
+  box-shadow: 10px 10px 15px #887693;
+  font-family: Courier New;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.b12{
+  color: #483D8B;
+  border: 5px solid #483D8B;
+  border-radius: 50px;
+  margin-left: 490px;
+  margin-right: 490px;
+  font-weight: 800;
+  box-shadow: 10px 10px 15px #887693;
+  font-family: Courier New;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.b13{
+  color: black;
+font-family: Courier New;
+}
+h2{
+  color: #483D8B;
+  font-size: 25px;
+  text-decoration: underline;
+  text-indent: 60px;
+  font-style: italic;
+  font-family: Courier New;
+}
+p{
+  font-family: Courier New;
+  margin-left: 20px;
+  font-size: 17px;
+}
